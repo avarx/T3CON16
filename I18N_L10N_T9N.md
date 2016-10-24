@@ -4,6 +4,7 @@
 ![TYPO3](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/typo3_logo.png)
 
 Jo Hasenau
+
 Daniel Zielinski
 
 ##Summary
