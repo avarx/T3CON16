@@ -1,7 +1,7 @@
 #SEMANTIC E-COMMERCE
 
 ##Presenter
-![Christian Opitz](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Christian_Opitz.png)
+![Christian Opitz](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Christian_Opitz.jpg)
 
 Christian Opitz
 

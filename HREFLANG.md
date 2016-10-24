@@ -1,7 +1,7 @@
 #HREFLANG – HOW TO SCALE YOUR INTERNATIONAL WEBSITE WITH A BIG BUZZ
 
 ##Presenter
-![Ralf Ohlenbostel](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Ralf_Ohlenbostel.png)
+![Ralf Ohlenbostel](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Ralf_Ohlenbostel.jpg)
 
 Ralf Ohlenbostel
 

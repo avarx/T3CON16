@@ -1,7 +1,7 @@
 #T3KIT.COM
 
 ##Presenter
-![Robert Lindh](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Robert_Lindh.png)
+![Robert Lindh](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Robert_Lindh.jpg)
 
 Robert Lindh
 

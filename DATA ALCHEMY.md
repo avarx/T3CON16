@@ -1,7 +1,7 @@
 #DATA ALCHEMY: TURN YOUR DATA INTO GOLD
 
 ##Presenter
-![Søren Schaffstein](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Søren_Schaffstein.png)
+![Søren Schaffstein](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Søren_Schaffstein.jpg)
 
 Søren Schaffstein
 

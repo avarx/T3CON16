@@ -1,7 +1,7 @@
 #LESSON LEARNED FROM A/B TESTING
 
 ##Presenter
-![Ingo Schmitt](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Ingo_Schmitt.png)
+![Ingo Schmitt](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Ingo_Schmitt.jpg)
 
 Ingo Schmitt
 

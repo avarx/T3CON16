@@ -1,7 +1,7 @@
 #THE AGILE ENTERPRISE - DIGITAL TRANSFORMATION AS A PRACTICAL APPLICATION
 
 ##Presenter
-![Patrick Lobacher](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Patrick_Lobacher.png)
+![Patrick Lobacher](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Patrick_Lobacher.jpg)
 
 Patrick Lobacher
 

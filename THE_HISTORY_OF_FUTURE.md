@@ -1,7 +1,7 @@
 #THE HISTORY OF FUTURE
 
 ##Presenter
-![Erik Händeler](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Erik_Händeler.png)
+![Erik Händeler](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Erik_Händeler.jpg)
 
 Erik Händeler
 

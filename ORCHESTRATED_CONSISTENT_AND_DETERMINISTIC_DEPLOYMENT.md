@@ -1,7 +1,7 @@
 #ORCHESTRATED, CONSISTENT, AND DETERMINISTIC DEPLOYMENT: WHAT DOES IT MEAN AND HOW TO GET THERE
 
 ##Presenter
-![Robert Douglass](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Robert_Douglass.png)
+![Robert Douglass](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Robert_Douglass.jpg)
 
 Robert Douglass
 

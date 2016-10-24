@@ -1,7 +1,7 @@
 #BIG DATA, IMPORTANT FOR EVERYBODY?
 
 ##Presenter
-![Thomas Müller](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Thomas_Müller.png)
+![Thomas Müller](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Thomas_Müller.jpg)
 
 Thomas Müller
 

@@ -1,7 +1,7 @@
 #PERFORMANCE SOLUTION STACKS
 
 ##Presenter
-![Bjoern Gottowik](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Bjoern_Gottowik.png)
+![Bjoern Gottowik](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Bjoern_Gottowik.jpg)
 
 Bjoern Gottowik
 

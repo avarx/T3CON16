@@ -1,7 +1,7 @@
 #WEBSITES ARE DEAD! LONG LIVE THE WEBSITES!
 
 ##Presenter
-![Florian Franke ](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Florian_Franke.png)
+![Florian Franke ](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Florian_Franke.jpg)
 
 Florian Franke
 

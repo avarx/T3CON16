@@ -1,7 +1,7 @@
 #HOW TO CHANGE THE WORLD AND SURVIVE THE JOURNEY
 
 ##Presenter
-![Gina Steiner](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Gina_Steiner.png)
+![Gina Steiner](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Gina_Steiner.jpg)
 
 Gina Steiner
 

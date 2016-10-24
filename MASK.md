@@ -1,7 +1,7 @@
 #MASK
 
 ##Presenter
-![Gernot Ploiner](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Gernot_Ploiner.png)
+![Gernot Ploiner](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Gernot_Ploiner.jpg)
 
 Gernot Ploiner
 
