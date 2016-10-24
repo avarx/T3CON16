@@ -1,7 +1,7 @@
 #I18N, L10N, T9N: QUO VADIS TYPO3?
 
 ##Presenter
-![TYPO3](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/typo3_logo.jpg)
+![TYPO3](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/typo3_logo.png)
 
 Jo Hasenau
 Daniel Zielinski
