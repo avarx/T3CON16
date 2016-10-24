@@ -1,8 +1,7 @@
 #WORKSHOP TYPO3 GMBH
 
-
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/x" width="200">
+![TYPO3](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/typo3_logo.png)
 
 Several
 
@@ -13,4 +12,5 @@ practice.
 To respect the wishes of the target group and involve partners, agencies and customers we offer a workshop concerning the working tasks of TYPO3 GmbH. The aim of the workshop is, to explain the responsibilities of the TYPO3 GmbH and to complete and optimize these with your input in an intensive working circle. Different topics as partner management, market positioning and market place should be examined in greater detail. Further ideas and possibilities should be developed. The result will be implemented by the GmbH in various fields to consider an even more intensive target groups feedback in daily work.
 
 The target group consists of accountants, partner managers and marketing executives of agencies and end customers, who wish to use their expertise for common tasks of TYPO3 market development.
+
 ##Notes

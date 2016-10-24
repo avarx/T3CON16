@@ -9,4 +9,5 @@ Franziska Brandt-Biesler
 Sometimes it's hard to convince other people. And it's getting even harder when the issue is really important for you.
 
 In this talk you learn how to reach your goals, follow your interests and improve the relationship to your conversation partner at the same time. Yes that is possible most of the time!
+
 ##Notes

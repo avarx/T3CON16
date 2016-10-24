@@ -24,4 +24,5 @@ The costumers pay sitegeist per hour, even in their biggest projects.
 Get the main idea of „RawEstimates“ und „The RE.A.L.-Concept“ with practical examples, take a look on how to install and control it.
 
 This talk can be a real game-changer for your agency.
+
 ##Notes
