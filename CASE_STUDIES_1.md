@@ -1,7 +1,7 @@
 #CASE STUDIES 1
 
 ##Presenter
-![Annelie Näs](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Annelie_Näs.jpg)
+![Annelie Näs](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Annelie_N%C3%A4s.jpg)
 
 Annelie Näs
 

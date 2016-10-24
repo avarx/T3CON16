@@ -1,7 +1,7 @@
 #NEGOTIATION TECHNIQUES FOR BETTER RESULTS
 
 ##Presenter
-![Franziska Brandt-Biesler](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Franziska_Brandt-Biesler.jpg)
+![Franziska Brandt-Biesler](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Franziska_Brandt-Biesler.png)
 
 Franziska Brandt-Biesler
 

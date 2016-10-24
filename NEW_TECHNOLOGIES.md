@@ -1,7 +1,7 @@
 #NEW TECHNOLOGIES: HOW REASONING BY ANALOGY WILL LEAD YOU INTO INSANELY WRONG DIRECTIONS
 
 ##Presenter
-![Alain Veuve](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Alain Veuve.jpg)
+![Alain Veuve](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Alain_Veuve.jpg)
 
 Alain Veuve
 
