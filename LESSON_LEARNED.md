@@ -1,7 +1,7 @@
 #LESSON LEARNED
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/Speakers/hinderink.jpg" width="200">
+![Daniel Hinderink](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Daniel_Hinderink.jpg)
 
 Daniel Hinderink
 

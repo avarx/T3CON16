@@ -1,7 +1,7 @@
 #HOW LEADERSHIP OF EMPLOYEES VIA OBJECTIVES UND KEY RESULTS (OKR) SPEEDS UP THE DIGITAL TRANSFORMATION AT EDEKA
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/Speakers/patricklobacher_397.jpg" width="200">
+![Patrick Lobacher](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Patrick_Lobacher.jpg)
 
 Patrick Lobacher
 

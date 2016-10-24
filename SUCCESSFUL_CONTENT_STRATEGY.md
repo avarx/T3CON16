@@ -1,21 +1,11 @@
-#THE NEED FOR A STRONG BRAND IN AN AGILE WORLD
+#SUCCESSFUL CONTENT STRATEGY - FROM CONCEPTION TO DISTRIBUTION
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/grey.png" width="200">
+![Judith Schröder](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Judith_Schröder.jpg)
 
-André Paetzel
+Judith Schröder
 
 ##Summary
-To survive and prosper in today's hypercompetitive, fast-moving world, brands need to have a strong foundation and the ability to adapt and react in a quick and agile manner.
-
-Constantly change in markets, technology and an all over digitalization is a day to day challenge that offers a lot of business opportunities.
-
-Brands need to face that challenge not only with the right business strategy, but with a focused and authentic brand strategy.
-
-Especially in the field of technology and digital services with its easy comparable products a strong brand is the essential advantage that puts your company ahead.
-
-What does that mean for TYPO3 as a brand and what are the opportunities? In a world, where everybody knows the price of a product, but only few the value, TYPO3 has to define a clear and strong attitude.
-
-Simplicity might be key, but definitely there is more to tell to develop the brand’s story further. Let’s take a look at the opportunities.
+Let’s make great content! A cool idea for a click tool or a well written text are not enough. To fulfill its potential, content must be great in all aspects: it has to delight the user, be optimized for different devices and search engines and it has to reach the user at the moment where it is most useful to them. This is why a good content strategy already takes the distribution and technical challenges into account at the conception stage. In this talk we will discuss what makes content great and how to face the upcoming challenges in the ever-changing world of online marketing.
 
 ##Notes

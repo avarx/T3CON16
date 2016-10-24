@@ -1,21 +1,11 @@
-#THE NEED FOR A STRONG BRAND IN AN AGILE WORLD
+#OF ELEPHANTS AND BUTTERFLIES...
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/grey.png" width="200">
+![Sabine Wojcieszak](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Sabine_Wojcieszak.jpg)
 
-André Paetzel
+Sabine Wojcieszak
 
 ##Summary
-To survive and prosper in today's hypercompetitive, fast-moving world, brands need to have a strong foundation and the ability to adapt and react in a quick and agile manner.
-
-Constantly change in markets, technology and an all over digitalization is a day to day challenge that offers a lot of business opportunities.
-
-Brands need to face that challenge not only with the right business strategy, but with a focused and authentic brand strategy.
-
-Especially in the field of technology and digital services with its easy comparable products a strong brand is the essential advantage that puts your company ahead.
-
-What does that mean for TYPO3 as a brand and what are the opportunities? In a world, where everybody knows the price of a product, but only few the value, TYPO3 has to define a clear and strong attitude.
-
-Simplicity might be key, but definitely there is more to tell to develop the brand’s story further. Let’s take a look at the opportunities.
+This is not a talk about animals! But it is a talk about how to address the elephant in the room! We all know situations, where all stakeholders are aware of a problem, but none wants to talk about it or even give it a name. But what if this problem won´t become an elephant but a beautiful butterfly? It is about the idea, that every problem is not there all of sudden, but goes through some kind of metamorphosis. And the unattractive caterpillar could turn into a big, heavy elephant as well as into a beautiful, light butterfly. This talk shows, that talking in an open and transparent way about upcoming problems right at the beginning helps to create a better time management, improves motivation and reduces misunderstandings and failures. Talking about a problem is the best way to find better and smarter solutions - your butterflies!
 
 ##Notes

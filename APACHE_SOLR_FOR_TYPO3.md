@@ -1,8 +1,7 @@
 #APACHE SOLR FOR TYPO3: HOW CONTINUOUS COOPERATIVE INNOVATION CAN PAY OFF
 
-
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/timo_hund.jpg" width="200">
+![Timo Hund](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Timo_Hund.jpg)
 
 Timo Hund
 

@@ -1,7 +1,7 @@
 #FUNDING WITH THE TYPO3 COMMUNITY – EVERYBODY PULLING IN THE SAME DIRECTION
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/Speakers/AndiFiessser.jpg" width="200">
+![Andreas Fießer](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Andreas_Fie%C3%9Fer.jpg)
 
 Andreas Fießer
 

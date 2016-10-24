@@ -1,7 +1,7 @@
 #DOING RE.A.L. PROJECTS.
 
 ##Presenter
-<img src="https://t3con.eu/fileadmin/user_upload/Speakers/SvenDitz.jpg" width="200">
+![Sven Ditz](https://raw.githubusercontent.com/avarx/T3CON16/master/Presenter/Sven_Ditz.jpg)
 
 Sven Ditz
 
